@@ -1,0 +1,9 @@
+{
+  "name": "SAFE-Live",
+  "description": "Intelligent personal safety system with automated SOS, live tracking, and AI-powered threat detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
